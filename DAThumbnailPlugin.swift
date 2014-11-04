@@ -6,7 +6,7 @@ class WNY_DAThumbnailPlugin: NSObject, THOPluginProtocol
         "fav\\.me/[a-z0-9_-]+|" +
         "sta\\.sh/[a-z0-9_-]+|" +
         "|[a-z0-9_-]+\\.deviantart\\.com/[a-z0-9_]+#/d[a-z0-9_-]+)"
-    let DeviantArtOEmbed = "http://backend.deviantart.com/oembed?url=%@"
+    let DeviantArtOEmbed = "https://backend.deviantart.com/oembed?url=%@"
     var regex: NSRegularExpression
     
     func isDeviantArtURL(url: String) -> Bool {
