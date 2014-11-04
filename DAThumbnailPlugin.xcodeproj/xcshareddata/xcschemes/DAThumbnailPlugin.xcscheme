@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8D57630D048677EA00EA77CD"
-               BuildableName = "SwiftPluginExample.bundle"
+               BuildableName = "DAThumbnailPlugin.bundle"
                BlueprintName = "DAThumbnailPlugin"
                ReferencedContainer = "container:DAThumbnailPlugin.xcodeproj">
             </BuildableReference>
@@ -44,7 +44,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D57630D048677EA00EA77CD"
-            BuildableName = "SwiftPluginExample.bundle"
+            BuildableName = "DAThumbnailPlugin.bundle"
             BlueprintName = "DAThumbnailPlugin"
             ReferencedContainer = "container:DAThumbnailPlugin.xcodeproj">
          </BuildableReference>
